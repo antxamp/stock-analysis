@@ -12,7 +12,10 @@ https://github.com/antxamp/stock-analysis/blob/17c96ecc98d18ca16ebbdaa17a9dbb598
 https://github.com/antxamp/stock-analysis/blob/d550e4ac505b2f3014eba060c85c14a7e3616899/VBA_Challenge_2017.PNG
 
 
-Here is this VBA script after refactoring.
+**Below is the VBA script after refactoring.**
+
+
+
 Sub AllStocksAnalysis()
     Dim startTime As Single
     Dim endTime As Single
