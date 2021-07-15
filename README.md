@@ -7,9 +7,9 @@
               time to process when running a macro. Below are the final times and results of the database after refactoring.
               
               
-https://github.com/antxamp/stock-analysis/blob/17c96ecc98d18ca16ebbdaa17a9dbb5989187174/VBA_Challenge_2018.PNG
+![image](https://github.com/antxamp/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
 
-https://github.com/antxamp/stock-analysis/blob/d550e4ac505b2f3014eba060c85c14a7e3616899/VBA_Challenge_2017.PNG
+![image](https://github.com/antxamp/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 
 
 **Below is the VBA script after refactoring.**
